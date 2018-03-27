@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
-title: Welcome to the Grove Film Club homepage!
+title: Grove Film Club
+github:
+  is_project_page: false
