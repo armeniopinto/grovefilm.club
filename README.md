@@ -35,8 +35,8 @@ Every Sunday, NH, NB, OH, CW and AP watch films that sometimes have [DD](https:/
 > The most common directors, directing 3 films each, were:
 > * [Ethan Coen](https://www.imdb.com/name/nm0001053/)
 > * [Joel Coen](https://www.imdb.com/name/nm0001054/)
-> * [Richard Linklater](https://www.imdb.com/name/nm0000500/)
-> * ... and [J.C. Chandor](https://www.imdb.com/name/nm1170855/)
+> * [J.C. Chandor](https://www.imdb.com/name/nm1170855/)
+> * ... and [Richard Linklater](https://www.imdb.com/name/nm0000500/)
 
 > The most common genres were **Drama** (181 times), Comedy (54 times) and Crime (42 times).
 
