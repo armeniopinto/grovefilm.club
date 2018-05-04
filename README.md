@@ -32,7 +32,6 @@ Every Sunday, NH, NB, OH, CW and AP watch films that sometimes have [DD](https:/
 > * [Ralph Fiennes](http://www.imdb.com/name/nm0000146/)
 > * ... and [Ryan Gosling](https://www.imdb.com/name/nm0331516/)
 
-
 > The most common directors, directing 3 films each, were:
 > * [Ethan Coen](https://www.imdb.com/name/nm0001053/)
 > * [Joel Coen](https://www.imdb.com/name/nm0001054/)
