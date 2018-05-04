@@ -4,14 +4,14 @@ import requests
 import json
 
 
-API_KEY = "FIXME"
+API_KEY = "d584ea15"
 
 
 def get_imdb_ids(year_file_name):
 	ids = []
 	with open(year_file_name) as f:
 		for line in f.readlines():
-			matches = re.search(r'\[.+\]\(.+\/(.+)\/\)', line)
+			matches = re.search(r'\|\ \[.+\]\(.+\/(.+)\/\)', line)
 			if matches:
 				ids.append(matches.group(1))
 	return ids
@@ -25,12 +25,13 @@ def get_stats(ids):
 		"genres_count": {
 		},
 		"actors_count": {
+		},
+		"directors_count": {
 		}
 	}
 	for id in ids:
 		response = requests.get(url = "http://www.omdbapi.com/?i={}&apikey={}".format(id, API_KEY)).json()
-		#with open("sample.json") as file:
-		#	response = json.load(file)
+		print(response)
 
 		try:
 			runtime = int(response["Runtime"].rsplit(" ")[0])
@@ -51,8 +52,15 @@ def get_stats(ids):
 				actors_count[actor] = 0
 			actors_count[actor] += 1
 
+		for director in response["Director"].rsplit(", "):
+			directors_count = stats["directors_count"]
+			if (director not in directors_count):
+				directors_count[director] = 0
+			directors_count[director] += 1
+
 	sort_by_count(stats, "genres_count")
 	sort_by_count(stats, "actors_count")
+	sort_by_count(stats, "directors_count")
 	return stats
 
 
@@ -79,8 +87,12 @@ def print_stats(stats):
 	print("The least common genre was {} ({} times).".format(lc_genre, genres_count[lc_genre]))
 
 	actors_count = stats["actors_count"]
-	ac_genre = list(actors_count.keys())[0]
-	print("The most common actor was {} ({} times).".format(ac_genre, actors_count[ac_genre]))
+	mc_actor = list(actors_count.keys())[0]
+	print("The most common actor was {} ({} times).".format(mc_actor, actors_count[mc_actor]))
+
+	directors_count = stats["directors_count"]
+	mc_director = list(directors_count.keys())[0]
+	print("The most common director was {} ({} times).".format(mc_director, directors_count[mc_director]))
 
 
 def duration_to_string(seconds):
