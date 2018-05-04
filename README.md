@@ -8,7 +8,7 @@ Every Sunday, NH, NB, OH, CW and AP watch films that sometimes have [DD](https:/
 
 > We watched **216 films**.
 
-> The combined runtime was **16 days** 2 hours and 32 minutes!
+> The combined runtime was **16 days**, 2 hours and 32 minutes!
 
 > The most common actors, featuring in 4 films each, were:
 > * [Adam Driver](http://www.imdb.com/name/nm3485845/)
