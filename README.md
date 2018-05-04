@@ -8,7 +8,7 @@ Every Sunday, NH, NB, OH, CW and AP watch films that sometimes have [DD](https:/
 
 > We watched **216 films**.
 
-> The combined runtime was **16 days** and 23 minutes!
+> The combined runtime was **16 days** 2 hours and 32 minutes!
 
 > The most common actors, featuring in 4 films each, were:
 > * [Adam Driver](http://www.imdb.com/name/nm3485845/)
@@ -20,11 +20,24 @@ Every Sunday, NH, NB, OH, CW and AP watch films that sometimes have [DD](https:/
 > * [Brie Larson](http://www.imdb.com/name/nm0488953/)
 > * [Greta Gerwig](http://www.imdb.com/name/nm1950086/)
 > * [Isabelle Huppert](http://www.imdb.com/name/nm0001376/)
+> * [Kyle Chandler](https://www.imdb.com/name/nm0151419/)
 > * [Mia Wasikowska](http://www.imdb.com/name/nm1985859/)
+> * [Octavia Spenser](https://www.imdb.com/name/nm0818055/)
 > * [Tilda Swinton](http://www.imdb.com/name/nm0842770/)
+> * [Guy Pearce](https://www.imdb.com/name/nm0001602/)
 > * [Jeremy Renner](http://www.imdb.com/name/nm0719637/)
 > * [Jesse Eisenberg](http://www.imdb.com/name/nm0251986/)
-> * ... and [Ralph Fiennes](http://www.imdb.com/name/nm0000146/).
+> * [Michael Stuhlbarg](https://www.imdb.com/name/nm0836121/)
+> * [Peter Sarsgaard](https://www.imdb.com/name/nm0765597/)
+> * [Ralph Fiennes](http://www.imdb.com/name/nm0000146/)
+> * ... and [Ryan Gosling](https://www.imdb.com/name/nm0331516/)
+
+
+> The most common directors, directing 3 films each, were:
+> * [Ethan Coen](https://www.imdb.com/name/nm0001053/)
+> * [Joel Coen](https://www.imdb.com/name/nm0001054/)
+> * [Richard Linklater](https://www.imdb.com/name/nm0000500/)
+> * ... and [J.C. Chandor](https://www.imdb.com/name/nm1170855/)
 
 > The most common genres were **Drama** (181 times), Comedy (54 times) and Crime (42 times).
 
