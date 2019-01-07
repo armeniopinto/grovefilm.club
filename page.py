@@ -4,7 +4,7 @@ import requests
 import json
 
 
-API_KEY = "FIXME"
+API_KEY = "d584ea15"
 
 
 def convert(year_file_name):
@@ -16,12 +16,12 @@ def parse_line(line):
 	matches = re.search(r"\|\ (.+)\ \|\ \|\ (.+)\ \|", line)
 	if matches:
 		name = matches.group(1)
-		info = requests.get(url = "http://www.omdbapi.com/?t={}&apikey={}".format(name, API_KEY)).json()
+		info = requests.get(url = f"http://www.omdbapi.com/?t={name}&apikey={API_KEY}").json()
 		date = matches.group(2)
 		if "imdbID" in info:
-			return "| [{}](http://www.imdb.com/title/{}/) | | {} |".format(info["Title"], info["imdbID"], date)
+			return f"| [{info['Title']}](http://www.imdb.com/title/{info['imdbID']}/) | | {date} |"
 		else:
-			return "'{}' not found!".format(name)
+			return f"'{name}' not found!"
 
 
 def main():
