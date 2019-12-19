@@ -19,7 +19,7 @@ def parse_line(line):
 		info = requests.get(url = f"http://www.omdbapi.com/?t={name}&apikey={API_KEY}").json()
 		date = matches.group(2)
 		if "imdbID" in info:
-			return f"| [{info['Title']}](http://www.imdb.com/title/{info['imdbID']}/) | | {date} |"
+			return f"| [{info['Title']}](https://www.imdb.com/title/{info['imdbID']}/) | | {date} |"
 		else:
 			return f"'{name}' not found!"
 
