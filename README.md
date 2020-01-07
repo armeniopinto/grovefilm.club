@@ -10,7 +10,7 @@ Every Sunday, NH, NB, OH, CW and AP watch films that sometimes have [DD](https:/
 
 > The combined runtime was **22 days**, 21 hours and 38 minutes!
 
-> The most common actor, featuring in 6 films, was [Jake Gyllenhaal](http://www.imdb.com/name/nm0350453/). He is followed by [Jason Clarke](http://www.imdb.com/name/nm0164809/), who features in 5 films.
+> The most common actor, featuring in 6 films, was [Jake Gyllenhaal](http://www.imdb.com/name/nm0350453/). He is followed by [Jason Clarke](http://www.imdb.com/name/nm0164809/), who featured in 5 films.
 
 > Other common actors, featuring in 4 films each, were: 
 > * [Adam Driver](http://www.imdb.com/name/nm3485845/)
@@ -58,8 +58,7 @@ Every Sunday, NH, NB, OH, CW and AP watch films that sometimes have [DD](https:/
 -->
 
 > The most common directors, directing 4 films each, were:
-> * [Ethan Coen](https://www.imdb.com/name/nm0001053/)
-> * [Joel Coen](https://www.imdb.com/name/nm0001054/)
+> * [Ethan Coen](https://www.imdb.com/name/nm0001053/) & [Joel Coen](https://www.imdb.com/name/nm0001054/)
 > * [Steven Soderbergh](https://www.imdb.com/name/nm0001752/)
 
 > Other common directors, directing 3 films each, were:
