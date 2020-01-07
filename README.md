@@ -63,7 +63,7 @@ Every Sunday, NH, NB, OH, CW and AP watch films that sometimes have [DD](https:/
 
 > Other common directors, directing 3 films each, were:
 > * [Ben Wheatley](https://www.imdb.com/name/nm1296554/)
-> * [Damien Chazelle]()
+> * [Damien Chazelle](https://www.imdb.com/name/nm3227090/)
 > * [J.C. Chandor](https://www.imdb.com/name/nm1170855/)
 > * ... and [Richard Linklater](https://www.imdb.com/name/nm0000500/)
 
